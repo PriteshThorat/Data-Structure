@@ -23,3 +23,15 @@ int main(){
     }
     getch();
 }
+
+/*[?2004l
+Enter Number for Array: 3
+Enter Array: 
+6
+35
+25
+Sorted Array: 
+6
+25
+35
+[?2004h*/

@@ -25,3 +25,12 @@ int main(){
     getch();
 }
     
+/*[?2004l
+Enter Five Elements: 
+Pr  Atharva
+Aarya
+Vivek
+Abhishek
+Aryan
+Enter Name To Find: Sr  Aryan
+Name has been found[?2004h*/

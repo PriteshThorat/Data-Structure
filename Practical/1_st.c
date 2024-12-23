@@ -79,3 +79,39 @@ int main() {
 
     return 0;
 }
+
+/*[?2004l
+Enter the size of the array: 3
+Enter elements of the array:
+2
+4
+7
+
+Menu:
+1. Insert
+2. Delete
+3. Display
+Enter your choice: 1
+Enter position and value to insert: 2
+5
+
+Menu:
+1. Insert
+2. Delete
+3. Display
+Enter your choice: 2
+Enter position to delete: 1
+
+Menu:
+1. Insert
+2. Delete
+3. Display
+Enter your choice: 3
+Array elements:
+2 5 7 
+
+Menu:
+1. Insert
+2. Delete
+3. Display
+Enter your choice: */

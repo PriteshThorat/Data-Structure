@@ -24,3 +24,21 @@ int main(){
     }
     getch();
 }
+
+/*[?2004l
+Enter Number for Array: 6
+Enter Array:
+2
+8
+46
+53
+265
+74
+Sorted Array: 
+2
+8
+46
+53
+74
+265
+[?2004h*/

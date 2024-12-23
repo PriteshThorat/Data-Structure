@@ -23,6 +23,13 @@ int main(){
     }
     getch();
 }
-                             
-    
-            
+
+/*[?2004l
+Enter the array Elements: 
+3
+5
+2
+6
+3
+Enter Element to Search: 6
+The Element is at 3 Position[?2004h*/

@@ -30,3 +30,17 @@ int main()
     }
     getch();
 }
+
+/*[?2004l
+Enter Number for Array: 4
+Enter Array: 
+2
+6
+3
+35
+Sorted Array: 
+2
+3
+6
+35
+[?2004h*/

@@ -25,3 +25,15 @@ int main(){
     }
     getch();
 }
+
+/*[?2004l
+Enter Number for Array: 3
+Enter Array: 
+Vivek
+Pritesh
+Atharva
+Sorted Array: 
+Atharva
+Pritesh
+Vivek
+[?2004h*/

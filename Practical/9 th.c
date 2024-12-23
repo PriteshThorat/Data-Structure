@@ -34,3 +34,17 @@ int main()
 
     getch();
 }
+
+/*[?2004l
+Enter Number for Array: 4
+Enter Array of String: 
+Vivek
+Arya
+Atharva
+Pritesh
+Sorted Array: 
+Arya
+Atharva
+Pritesh
+Vivek
+[?2004h*/
