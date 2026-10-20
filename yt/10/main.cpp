@@ -19,8 +19,7 @@ int indInsertion (int arr[], int size, int element, int capacity, int index) {
     return -1;
   }
 
-  for (int i = size - 1; i >= index; i--)
-  {
+  for (int i = size - 1; i >= index; i--) {
     arr[i + 1] = arr[i];
   }
 
