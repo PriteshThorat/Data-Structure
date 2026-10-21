@@ -20,10 +20,10 @@ int main () {
   struct Node* third;
   struct Node* fourth;
 
-  head = (struct Node*) malloc(sizeof(struct Node));
-  second = (struct Node*) malloc(sizeof(struct Node));
-  third = (struct Node*) malloc(sizeof(struct Node));
-  fourth = (struct Node*) malloc(sizeof(struct Node));
+  head = new Node;
+  second = new Node;
+  third = new Node;
+  fourth = new Node;
 
   head->data = 11;
   head->next = second;
@@ -38,6 +38,11 @@ int main () {
   fourth->next = NULL;
 
   linkedListTraversal(head);
+
+  delete head;
+  delete second;
+  delete third;
+  delete fourth;
 
   return 0;
 }
