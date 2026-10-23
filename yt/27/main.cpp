@@ -32,12 +32,12 @@ bool pop (struct Stack* ptr) {
 }
 
 int peek (struct Stack* ptr, int pos) {
-  if (pos < 0) {
+  if (pos < 1) {
     cout << "Invalid Position\n";
 
     return -1;
   }
-  if (pos > ptr->top) {
+  if (pos - 1 > ptr->top) {
     cout << "Invalid Position\n";
 
     return -1;
